@@ -28,7 +28,7 @@
 Welcome to FoodBazaarBuddy , your one-stop destination for ordering your favorite food items online. Our website is built using Java and MySQL to provide you with a seamless and hassle-free experience. With our user-friendly interface, you can easily browse through a wide variety of food items, customize your orders, and make payments online. The technologies used in this project are JAVA, MySQL. There are a few important modules in the project like home page, main page, Login page, product page, cart page. we hope you enjoy using our platform! I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [ScreenShot](#SS) for reference 
 
 ### Prerequisites
 What things you need to install the software and how to install them.

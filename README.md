@@ -107,5 +107,5 @@ What things you need to install the software and how to install them.
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- References : YouTube
+- References : YouTube , Skill-Lync
 
